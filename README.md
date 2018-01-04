@@ -1,13 +1,10 @@
-Simple PHP-MySQL CRUD (Add, Edit, Delete, View) using PDO
+PHP/MySQL CRUD (Add, Edit, Delete, View) using PDO
 ========
-
-A simple and basic system to add, edit, delete and view using PHP and MySQL. 
-
-Blog Article: [Simple PHP-MySQL CRUD (Add, Edit, Delete, View) using PDO](http://blog.chapagain.com.np/php-mysql-simple-crud-add-edit-delete-view-using-pdo/)
-
 SQL script to create database and tables is present in **database.sql** file.
 
-Generate access Token & Post in Facebook
+The configuration database is present in **config.php** file.
+
+Generate access Token & Post in Facebook (V2.11)
 ========================================
 
 ### **1ère étape :**
